@@ -11,7 +11,7 @@ import java.util.Collections;
 
 public class MainActivity extends AppCompatActivity {
 
-    String tot = "";
+    String tot="";
     TextView tv1;
 
     @Override
