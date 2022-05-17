@@ -3,6 +3,7 @@ package branch;
 public class Sample_branch_b1 {
     String name;
     float cgpa;
+
     int number_of_classes;
 
     public Sample_branch_b1(String name, float cgpa, int number_of_classes) {
